@@ -3,16 +3,26 @@
 выполненные задания переносим в Архив(внизу файла)
 ==================================
 Git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +      
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team   +
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 ==================================
 Python (получить сертификат*):
+Скачать https://t.me/c/1937296927/1/16676 сначала прочитать 85-95стр, потом всё остальное
+
 1)https://karpov.courses/pythonzero
 2)https://stepik.org/course/63085/promo
 3)https://www.kaggle.com/learn/intro-to-programming
 4)https://www.kaggle.com/learn/python
+
+Если любишь книги:
+
+1)скачай https://t.me/c/1937296927/1/18019 и создай два файла в папке Python,
+Перепиши две книги в эти два файла.
+1- posobie.ipynb
+2- byte_of_python.ipynb
+
 
 *Обязательно пользуйся визуализатором https://pythontutor.com/
 =================================
@@ -25,9 +35,9 @@ https://edu.sirius.online/#/course/1750 (проходи если открыт)
 5) https://stepik.org/course/4852/syllabus (только введение)
 ПРАКТИКА В PANDAS: https://leetcode.com/problemset/pandas/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkRJRkZJQ1VMVFkifV0%3D
 
-1 задача в день 
-https://leetcode.com/studyplan/introduction-to-pandas/ 
-когда закончишь начни 
+1 задача в день
+https://leetcode.com/studyplan/introduction-to-pandas/
+когда закончишь начни
 https://leetcode.com/studyplan/30-days-of-pandas/
 ==================================
 Data Cleaning(Regex):
@@ -38,7 +48,7 @@ Data Cleaning(Regex):
 3)https://machinelearningtutorials.org/tutorial-using-pandas-with-regular-expressions-regex/ повторить в ноутбуке
 4)https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/ повторить в ноутбуке
 5)https://www.geeksforgeeks.org/replace-values-in-pandas-dataframe-using-regex/ повторить в ноутбуке
-6)https://www.kaggle.com/learn/data-cleaning 
+6)https://www.kaggle.com/learn/data-cleaning
 7)https://www.dataquest.io/blog/regular-expressions-data-scientists/ повторить в ноутбуке
 ==================================
 Data Visual:
@@ -46,7 +56,7 @@ Data Visual:
 2) https://www.kaggle.com/code/prashant111/matplotlib-tutorial-for-beginners
 3) https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners
 4) https://www.kaggle.com/code/kanncaa1/plotly-tutorial-for-beginners (опционально)
-5) https://t.me/c/1937296927/832/14284 (rus) прочитать 
+5) https://t.me/c/1937296927/832/14284 (rus) прочитать
 6) Tableau https://stepik.org/course/56280/syllabus
 ==================================
 SQL:
@@ -61,13 +71,13 @@ SQL:
 5) https://stepik.org/course/63054/syllabus
 6) https://stepik.org/course/3203/syllabus
 7) https://sql-academy.org/ru/trainer/tasks/1
-==================================                                                                        
+==================================
 Практика:
 1) https://t.me/c/1937296927/832/13289 прочитать
 1.1) https://t.me/c/1937296927/832/13290 прочитать
 1.3) https://education.yandex.ru/handbook/data-analysis
 2) https://t.me/c/1937296927/832/16118, берём отсюда ссылки на kaggle и проводим EDA анализ.
-3)contecst по аналитике(опционально) 
+3)contecst по аналитике(опционально)
 https://contest.yandex.ru/contest/28416/enter
 4)A/B(справочник):
 https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
@@ -77,25 +87,25 @@ Algorithms(опционально):
 2)https://habr.com/ru/companies/yandex/articles/449890/
 
 Алгоритмы (выполнить):
-1)https://codeforces.com/problemset/problem/4/A 
+1)https://codeforces.com/problemset/problem/4/A
 2)https://leetcode.com/problems/palindrome-number/
 3)переписать в тетрадь
 https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
 
-1 задача в день(всего 30 задач): 
+1 задача в день(всего 30 задач):
 https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
 
 копируешь с каждой странице по 1 решению:
-первая страница https://codeforces.com/problemset/status/4/problem/A 
+первая страница https://codeforces.com/problemset/status/4/problem/A
 середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
 последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
- 
-и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода
 и так дальше по другим задачам.
 
 Computer Science:
-1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
-2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc
 ==================================
 Math(school):
 1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
@@ -103,7 +113,7 @@ Math(school):
 ==================================
 Calculus:
 
-Теория(книга - для хардкорщиков): 
+Теория(книга - для хардкорщиков):
 https://vk.com/doc297168001_651784102
 
 Практика:
@@ -118,13 +128,13 @@ https://vk.com/doc297168001_651784102
 УРА, РУКУ МЫ НАБИЛИ ПОРА ПРАКТИКОВАТЬСЯ:
 
 Итоговый контроль:
-1) скачать https://t.me/c/1937296927/888/11888 
+1) скачать https://t.me/c/1937296927/888/11888
 1.1 Изучить критерий Коши, на 28 странице(задачник)
-1.2 выполнить 5.231 - 5.245 в тетради, 
+1.2 выполнить 5.231 - 5.245 в тетради,
 1.3 конспект загрузить в \Math\calculus\5.231_5.245\limit.pdf
 1.4 так же сделай первые 3 примера из конспекта в sympy https://t.me/c/1937296927/13078
 сохраняешь в \Math\calculus\5.231_5.245\sympy.ipynb
-2) выполнить только чётные 5.272-5.286 
+2) выполнить только чётные 5.272-5.286
 конспект загрузить в \Math\calculus\5.272-5.286\limit.pdf
 3) Выполнить только чётные 5.288-5.333
 конспект загрузить в \Math\calculus\5.288-5.333\limit.pdf
