@@ -16,7 +16,7 @@ Python:
 5)https://karpov.courses/pythonzero
 6)ООП дойти до создания объектов включительно,https://t.me/c/1937296927/1/12260 Python/oop.ipynb 
 7)ООП дойти до создания объектов включительно,https://t.me/c/1937296927/1/14973 Python/oop2.ipynb 
-8)статическая типизация(mypy) Python/mypy_practice.ipynb https://t.me/c/1937296927/1/2159
+8)статическая типизация(mypy) https://t.me/c/1937296927/1/2159 Python/mypy_practice.ipynb, дока по mypy - https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#variables
 
 План по секции:
 1 пункт лучше применяем начиная с циклов или функций, чтобы понимать как работает интерпритатор
