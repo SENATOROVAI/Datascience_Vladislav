@@ -9,23 +9,25 @@ Git:
 4)https://t.me/c/1937296927/3602/5714 (начать делать)
 ==================================
 Python (получить сертификат*):
+*Обязательно пользуйся визуализатором https://pythontutor.com/
+
 Скачать https://t.me/c/1937296927/1/16676 сначала прочитать 85-95стр, потом всё остальное,
 обязательно создайте файл с названием lesson_pep8.ipynb в  папке Python, где будете отрабатывать навыки из этой книги, ПРОВЕРЮ!
 
-1)https://karpov.courses/pythonzero
-2)https://stepik.org/course/63085/promo
-3)https://www.kaggle.com/learn/intro-to-programming
-4)https://www.kaggle.com/learn/python
-
 Если любишь книги:
 
-1)скачай https://t.me/c/1937296927/1/18019 и создай два файла в папке Python,
+скачай https://t.me/c/1937296927/1/18019 и создай два файла в папке Python,
 Перепиши две книги в эти два файла.
 1- posobie.ipynb
 2- byte_of_python.ipynb
 
+1)https://karpov.courses/pythonzero
+2)https://stepik.org/course/63085/promo
+3) Пройти весь курс по ООП(достаточно до создания объектов включительно), переписать в ноутбук https://t.me/c/1937296927/1/12260
 
-*Обязательно пользуйся визуализатором https://pythontutor.com/
+Пройти весь курс по ООП(достаточно до создания объектов включительно), переписать в ноутбук https://t.me/c/1937296927/1/14973
+4) Переписать в ноутбук, статическая типизация(mypy)
+https://t.me/c/1937296927/1/2159
 =================================
 Аналитика данных на pandas:
 https://edu.sirius.online/#/course/1750 (проходи если открыт)
@@ -130,7 +132,7 @@ https://vk.com/doc297168001_651784102
 2) Дифференциал в приближенных вычислениях примеры https://www.youtube.com/watch?v=VWIuBsqaFYc&list=PLGtfmJuN1mTA_vI3eLT8jMTEeJ0YDIh-z&index=34
 2.1) Функция двух переменных и частная производная https://www.youtube.com/watch?v=wabnLNcQgVY&list=PLGtfmJuN1mTDy7YTzj6zE1NCryQZL5ZHs
 2.2) изучить пдф \Math\calculus\theory\Экзаменационный контроль(все темы)\4. Дифференциальное исчисление многих переменных\диф2.пдф
-2.3)127страница проработать, Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf 
+2.3)127страница проработать, Math\calculus\theory\Anti-Demidovich (Lyashko I.I., i dr.). Tom 1.pdf
 2.4)прорешать все примеры https://mathprofi.com/knigi_i_kursy/files/chastnye_proizvodnye_demo.pdf
 Буду проверять тетрадь!
 
